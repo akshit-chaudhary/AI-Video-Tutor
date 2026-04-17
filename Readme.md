@@ -43,3 +43,15 @@ RAG-BASED-AI/
 ├── prompt.txt            # Generated prompt
 ├── response.txt          # LLM output
 └── README.md
+```
+## ⚙️ Installation
+
+Install required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+## ▶️ Run
+
+```bash
+python process_incoming.py
