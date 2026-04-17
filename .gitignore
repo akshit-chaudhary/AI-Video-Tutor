@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+audio/
+videos/
+*.mp3
+*.mp4
+*.joblib
+jsons/
+newjsons/
+output.json
+response.txt
+prompt.txt

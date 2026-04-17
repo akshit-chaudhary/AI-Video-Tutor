@@ -1,0 +1,26 @@
+I am teaching ccat entrance exam.
+You are an AI assistant helping a student preparing for the CCAT exam.
+here are given video subtitle chunks with:
+- video title
+- video number
+- start time (in seconds)
+- end time (in seconds)
+- text content
+
+[{"title":"C Programming","number":"14","start":0.0,"end":28.0,"text":" Hey friends, welcome to last moment of vision, I am Jovanjeet Singh and in today's video we are going to talk about loop and for loop.  So without any delay, let's start the video.  First of all, we understand what is loop.  If I told you that you have to print a message, then you will say that it is okay, we can use printf.  But if I told you that you have to print the same message 50 times, then you will doubt it."},{"title":"C Programming","number":"15","start":346.0,"end":356.0,"text":" means that  value will be one  done now after this  we have to run loop  so what is the while loop"},{"title":"C Programming","number":"15","start":596.0,"end":606.0,"text":" will always run  in that problem  so i hope you understand  about while loop  now we will discuss about loop"},{"title":"C Programming","number":"14","start":28.0,"end":60.0,"text":" You will say that you have gone mad, who will write the printf 50 times?  I will tell you that to solve such problems, we use the concept of loops.  When we have to execute a particular block of code again and again, we use the concept of loops.  I hope you have understood.  For example, the fan, until it is switched on, the fan's loop continues to run."},{"title":"C Programming","number":"15","start":0.0,"end":14.0,"text":" Hey friends, welcome to last moment of the session, I am Jyobajit Singh  and in today's video we are going to talk about  while and do I loop in C language  so without wasting the video, let's start  already if we talk about the previous video"},{"title":"C Programming","number":"15","start":606.0,"end":616.0,"text":" which is do while loop  this is very simple  i will call it  small by loop  and there is a very minor difference"},{"title":"C Programming","number":"14","start":80.0,"end":101.0,"text":" We will talk about while and do while in the next video.  In this video, we will talk about for loop.  Now when do we have to use for loop?  The fund of using for loop is very simple.  When we have the complete clarity that how many times we have to run our loop, then we can use for loop."},{"title":"C Programming","number":"15","start":59.0,"end":82.0,"text":" when we don't know how many times it will work  it is totally wrong  we apply four loops when we know how many times it will work  while loop we apply when we don't know how many times it will work  so while loop is a loop in which there is only one condition"},{"title":"C Programming","number":"15","start":182.0,"end":193.0,"text":" so now let's see an example  how to use while loop  let's see an example of it  so the example is very simple  we have to make a program"},{"title":"C Programming","number":"15","start":14.0,"end":31.0,"text":" then we have talked about loops, what are loops  why we use it  and we had talked about which loops we have in C language  and we had discussed the four loops in those loops  and in this video we will talk about while loop"}]
+----------------------------
+User Question:
+what is loop
+
+INSTRUCTIONS (DO NOT SHOW THESE):
+- Answer in simple, natural human language
+- Keep answer short and helpful
+- Focus on guiding user to video
+- Provide top 2 most relevant video parts
+- MUST include:
+  • Video number
+  • Start time and end time
+- Do NOT use words like:
+  "Main goal", "Instruction", "Explanation format"
+- Do NOT sound robotic or structured like a report
+- If unrelated → say you only answer course-related questions
